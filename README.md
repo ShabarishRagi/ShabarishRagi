@@ -109,4 +109,3 @@ I specialize in creating efficient backends that handle the heavy lifting for yo
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
